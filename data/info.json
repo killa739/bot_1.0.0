@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "category_id": "category_1",
+            "event_id": "event_11",
+            "info_id": "info_11",
+            "text": "Информация о мероприятии 1 q   111122423534"
+        },
+        {
+            "category_id": "category_2",
+            "event_id": "event_21",
+            "info_id": "info_21",
+            "text": "Информация о мероприятии 1"
+        },
+        {
+            "category_id": "category_3",
+            "event_id": "event_31",
+            "info_id": "info_31",
+            "text": "Информация о мероприятии 1"
+        },
+        {
+            "category_id": "category_4",
+            "event_id": "event_41",
+            "info_id": "info_41",
+            "text": "Информация о мероприятии 1"
+        }
+    ]
+}

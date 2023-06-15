@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "category_id": "category_1",
+            "text": "Категория 1",
+            "callback_data": "category_1"
+        },
+        {
+            "category_id": "category_2",
+            "text": "Категория 2",
+            "callback_data": "category_2"
+        },
+        {
+            "category_id": "category_3",
+            "text": "Категория 3",
+            "callback_data": "category_3"
+        },
+        {
+            "category_id": "category_4",
+            "text": "Категория 4",
+            "callback_data": "category_4"
+        },
+        {
+            "category_id": "category_5",
+            "text": "Категория 5",
+            "callback_data": "category_5"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "category_id": "category_1",
+            "event_id": "event_11",
+            "text": "Мероприятие 1",
+            "callback_data": "event_11"
+        },
+        {
+            "category_id": "category_1",
+            "event_id": "event_12",
+            "text": "Мероприятие 2",
+            "callback_data": "event_12"
+        },
+        {
+            "category_id": "category_2",
+            "event_id": "event_21",
+            "text": "Мероприятие 1",
+            "callback_data": "event_21"
+        },
+        {
+            "category_id": "category_2",
+            "event_id": "event_22",
+            "text": "Мероприятие 2",
+            "callback_data": "event_22"
+        },
+        {
+            "category_id": "category_2",
+            "event_id": "event_23",
+            "text": "Мероприятие 3",
+            "callback_data": "event_23"
+        },
+        {
+            "category_id": "category_2",
+            "event_id": "event_24",
+            "text": "Мероприятие 4",
+            "callback_data": "event_24"
+        }
+    ]
+}
