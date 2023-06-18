@@ -1,7 +1,6 @@
 const bot = require('./bot')
 const createKeyboard = require('./utils/create-keyboard')
 const callbackQuery = require('./utils/callback_query')
-require('dotenv').config()
 
 const { 
     CATEGORIES_TITLE, 
