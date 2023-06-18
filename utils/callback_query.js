@@ -7,8 +7,7 @@ const {
     BUTTON_BACK_CATEGORY,
     BUTTON_BACK_EVENTS,
     NOT_EVENTS_IN_CATEGORY,
-    NOT_INFO_FOR_EVENT,
-    BUTTONS_BACK
+    NOT_INFO_FOR_EVENT
 } = require('../constants/constants')
 
 const events = require('../data/events.json')
