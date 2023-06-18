@@ -29,7 +29,7 @@ bot.action('back_to_events', ctx => {
     const { message_id } = ctx.callbackQuery.message
     bot.telegram.deleteMessage(ctx.chat.id, message_id)
     
-    createKeyboard(ctx, EVENTS_TITLE, events.data, BUTTON_BACK_CATEGORY)
+    createKeyboard(ctx, EVENTS_TITLE, events.data, BUTTON_BACK_CATEGORY) // data ?
 })
 
 callbackQuery()
